@@ -39,7 +39,7 @@
 						<div class="inner">
 							<h1 class="major">Information</h1>
 							<span class="image fit"><img src="images/pic04.jpg" alt="" /></span>
-							<p>SFC is a group of people who care about their consumers, we try to make everything the simplests for our users aswell as the most comfortable.</p>
+							<p>SFC is a group of people who care about their consumers, we try to make everything the simplests for our community aswell as the most comfortable.</p>
 							<p>We have a few parts to our organization, such as our <a href="https://duckypl.github.io/discord">Discord Server<a>, <a href="https://duckypl.github.io/minecraft">Minecraft Server</a> and <a href="https://duckypl.github.io/tools">Many Tools</a>.</p>
 						</div>
 					</section>

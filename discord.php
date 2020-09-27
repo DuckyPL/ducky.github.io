@@ -7,8 +7,8 @@
 		<meta property="og:type" content="website" />
 		<meta property="og:url" content="https://duckypl.github.io" />
 		<meta property="og:image" content="https://duckypl.github.io/images/thumb.png" />
-		<meta property="og:description" content="Site description" />
-		<meta name="theme-color" content="#FF0000">
+		<meta property="og:description" content="SFC is a multi-purpose community from youtube channels to minecraft servers" />
+		<meta name="theme-color" content="#FFFFFF">
 
 		<meta name="twitter:card" content="summary_large_image">
 		
